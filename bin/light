@@ -1,0 +1,3 @@
+#!/bin/sh
+# Convenience wrapper: `light hide` | `light show` | `light toggle`
+exec node "$(dirname "$0")/claude-light.js" "$@"

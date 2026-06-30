@@ -1,0 +1,27 @@
+{
+  "name": "claude-code-traffic-light",
+  "version": "1.0.0",
+  "description": "Always-on-top pixel-art traffic light showing the live state of your Claude Code sessions.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "install-hooks": "node install.js",
+    "uninstall-hooks": "node uninstall.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nainasachdev10/claude-code-traffic-light"
+  },
+  "keywords": [
+    "claude-code",
+    "overlay",
+    "electron",
+    "pixel-art",
+    "status",
+    "traffic-light"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^31.0.0"
+  }
+}
