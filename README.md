@@ -5,6 +5,10 @@ Claude Code sessions as cute, slightly-pixelated traffic lights — one per sess
 little bird perched on top. Lives in the corner of your screen all day so you know, at a
 glance, which session needs you.
 
+<p align="center">
+  <img src="assets/demo.png" alt="A pixel-art bird perched on a traffic light overlay, chirping &quot;breathe. you're doing great&quot; in the corner of the screen" width="420" />
+</p>
+
 | State | Meaning |
 |-------|---------|
 | 🔴 **RED** | Waiting for your approval / blocked on a permission prompt |
